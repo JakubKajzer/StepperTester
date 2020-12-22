@@ -1,12 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [PCB.PcbDoc]
-   Generated File[PCB.TXT]
-   Generated File[PCB.LDP]
-   Generated File[PCB.DRR]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:13:01 On 28.08.2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [StepperTester.PrjPcb]
+   Generated File[Bill of Materials-StepperTester.xls]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:43:01 On 11.07.2020
+Finished Output Generation At 19:13:09 On 28.08.2020
